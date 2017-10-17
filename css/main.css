@@ -1,0 +1,21 @@
+div {
+  border: 5px blue solid;
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+  margin: 10px;
+  box-sizing: border-box;
+}
+
+p {
+  font-size: 50px;
+  text-align: center;
+}
+
+.box-none {
+  display: none;
+}
+
+.box-hidden{
+  visibility: hidden;
+}
